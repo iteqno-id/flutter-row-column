@@ -1,16 +1,12 @@
-# row_column
+# iTeqno
 
-A new Flutter project.
+## Bedah Widget Flutter #2 - Row & Column
 
-## Getting Started
+Repo ini adalah source untuk video pada channel Youtube iTeqno
+| Screenshot 1 | Screenshot 2 |
+|---:|:---|
+| <img width="277" alt="Youtube iTeqno" src="https://user-images.githubusercontent.com/343957/158843750-edde9f9c-e8c5-4640-89e6-c7823eaa6142.png"> | <img width="300" alt="Youtube iTeqno" src="https://user-images.githubusercontent.com/343957/158844771-6421f9fb-c89b-406a-ba87-d6dd225f8e0c.png">
 
-This project is a starting point for a Flutter application.
+Find at Youtube
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Youtube iTeqno](http://img.youtube.com/vi/cMlg2A70yWY/0.jpg)](https://youtu.be/cMlg2A70yWY "Flutter Row & Column")
